@@ -1,0 +1,35 @@
+body{
+font-family: fantasy;
+font-size: 1.5em;
+    background-color: darkgray;
+    color:darkblue;
+}
+.intro-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/edificvio.jpg) no-repeat center center;
+    background-size: cover;
+} 
+.network-name{
+background-color: cornflowerblue;
+color: blue;
+}
+img{
+border: dotted 10px ;
+border-radius: 10%;
+box-shadow: 10px 10px grey;
+}
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/edificvio.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+
+h1,h2, h3 {
+color:cornflowerblue;
+
+}
