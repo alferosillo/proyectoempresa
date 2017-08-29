@@ -12,12 +12,21 @@ font-size: 1.5em;
     background: url(../img/edificvio.jpg) no-repeat center center;
     background-size: cover;
 } 
+.icono img{
+width: 10%;
+height: 10%;
+border: none;
+box-shadow: none;
+float: left;
+}
+
+
 .network-name{
 background-color: cornflowerblue;
 color: blue;
 }
 img{
-border: dotted 10px ;
+border: outset 10px ;
 border-radius: 10%;
 box-shadow: 10px 10px grey;
 }
